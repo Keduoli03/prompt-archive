@@ -34,6 +34,17 @@ prompt-archive/
 
 每 30 分钟自动抓取一次网络上的优质提示词。
 
+## 评审流程
+
+```
+抓取 → review/ 待评审 → 你确认 → prompts/ 正式收录
+```
+
+**通过** → 移到对应分类目录
+**淘汰** → 删除或移到 rejected/
+
+详见 [review/README.md](review/README.md)
+
 ## 贡献
 
 发现好的提示词？提交到对应分类目录，命名格式：
