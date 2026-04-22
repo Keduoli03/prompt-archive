@@ -6,18 +6,17 @@
 
 ```
 prompt-archive/
-├── prompts/              # 提示词分类存放
+├── prompts/              # 正式收录提示词
 │   ├── portrait/        # 人物肖像类
 │   ├── landscape/       # 风景场景类
 │   ├── concept-art/     # 概念设计类
 │   ├── character-design/# 角色设计类
 │   ├── movie-poster/    # 电影海报类
 │   └── other/           # 其他
+├── review/              # 待评审提示词
 ├── index/
-│   └── INDEX.md         # 总索引（名称/来源/分类/提示词/效果图）
-├── scripts/
-│   ├── fetch.sh        # 抓取脚本
-│   └── deduplicate.sh  # 去重脚本
+│   ├── INDEX.md         # 总索引（按分类排列）
+│   └── REVIEW_INDEX.md  # 评审区索引
 └── README.md
 ```
 
@@ -30,25 +29,29 @@ prompt-archive/
 - **movie-poster**: 电影海报、书籍封面
 - **other**: 其他混合风格
 
-## 抓取频率
-
-每 30 分钟自动抓取一次网络上的优质提示词。
-
-## 评审流程
+## 收录流程
 
 ```
-抓取 → review/ 待评审 → 你确认 → prompts/ 正式收录
+定时任务抓取 → review/ 待评审 → 你确认 → 移到 prompts/ 正式收录
 ```
 
-**通过** → 移到对应分类目录
-**淘汰** → 删除或移到 rejected/
-
-详见 [review/README.md](review/README.md)
-
-## 贡献
-
-发现好的提示词？提交到对应分类目录，命名格式：
+## 命名格式
 
 ```
-YYYYMMDD-HHMMSS-简要描述.md
+prompts/分类/名称-YYYYMMDD.md
+review/名称-YYYYMMDD.md
 ```
+
+**格式说明**：名称在前，日期在后，精确到年月日。
+
+## 收录标准
+
+1. ✅ 有**完整逐字**的提示词原文
+2. ✅ 有明确的**作者**信息
+3. ✅ 有**原始发布链接**
+4. ✅ 有**效果图**
+5. ✅ 提示词质量高，风格独特
+
+---
+
+*索引由定时任务自动维护*
