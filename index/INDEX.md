@@ -30,8 +30,8 @@
 - **来源**: X (Twitter) - [原文链接](https://x.com/voxcat)
 - **标签**: 书写性, 线性, 白描, 毛笔, 水彩, 留白, voxcat, image2
 - **收录时间**: 2026-04-23
-- **文档**: [009-voxcat书写性线性人物彩色插画-20260423.md](../prompts/character-design/009-voxcat书写性线性人物彩色插画-20260423.md)
-- **效果图**: [查看](../prompts/character-design/assets/009-voxcat书写性线性人物彩色插画-1.jpg)
+- **文档**: [voxcat书写性线性人物彩色插画-20260423.md](../prompts/character-design/voxcat书写性线性人物彩色插画-20260423.md)
+- **效果图**: [查看](../prompts/character-design/assets/voxcat书写性线性人物彩色插画-1.jpg)
 - **质量**: ⭐ 优质
 
 **提示词**:
@@ -49,8 +49,8 @@
 - **来源**: X (Twitter) - [原文链接](https://x.com/voxcat)
 - **标签**: 机甲, 神性机械, Art Nouveau, 中式, 新艺术, 花窗, 3D主视觉, image2
 - **收录时间**: 2026-04-23
-- **文档**: [010-中式未来机甲圣像-20260423.md](../prompts/concept-art/010-中式未来机甲圣像-20260423.md)
-- **效果图**: [查看](../prompts/concept-art/assets/010-中式未来机甲圣像-1.jpg)
+- **文档**: [中式未来机甲圣像-20260423.md](../prompts/concept-art/中式未来机甲圣像-20260423.md)
+- **效果图**: [查看](../prompts/concept-art/assets/中式未来机甲圣像-1.jpg)
 - **质量**: ⭐ 优质
 
 **提示词**:
@@ -105,8 +105,8 @@
 - **来源**: https://oimi.ai/zh/blog/top-20-gpt-image-2-prompts
 - **标签**: gpt-image-2, 轮廓, 叙事, 水彩, 宇宙
 - **收录时间**: 2026-04-23
-- **文档**: [021-轮廓宇宙叙事海报-20260423.md](../prompts/poster/021-轮廓宇宙叙事海报-20260423.md)
-- **效果图**: [查看](../prompts/poster/assets/021-轮廓宇宙叙事海报.jpg)
+- **文档**: [轮廓宇宙叙事海报-20260423.md](../prompts/poster/轮廓宇宙叙事海报-20260423.md)
+- **效果图**: [查看](../prompts/poster/assets/轮廓宇宙叙事海报.jpg)
 - **质量**: ⭐ 优质
 
 **提示词**:
@@ -124,8 +124,8 @@
 - **来源**: https://oimi.ai/zh/blog/top-20-gpt-image-2-prompts
 - **标签**: gpt-image-2, 图鉴式, 信息图, 汉服, 拆解图
 - **收录时间**: 2026-04-23
-- **文档**: [011-博物馆图鉴式中文拆解信息图-20260423.md](../prompts/information-graphic/011-博物馆图鉴式中文拆解信息图-20260423.md)
-- **效果图**: [查看](../prompts/information-graphic/assets/011-博物馆图鉴式中文拆解信息图.jpg)
+- **文档**: [博物馆图鉴式中文拆解信息图-20260423.md](../prompts/information-graphic/博物馆图鉴式中文拆解信息图-20260423.md)
+- **效果图**: [查看](../prompts/information-graphic/assets/博物馆图鉴式中文拆解信息图.jpg)
 - **质量**: ⭐ 优质
 
 **提示词**:
@@ -141,8 +141,8 @@
 - **来源**: https://oimi.ai/zh/blog/top-20-gpt-image-2-prompts
 - **标签**: gpt-image-2, 手绘, 地图, 美食, 成都
 - **收录时间**: 2026-04-23
-- **文档**: [022-成都手绘美食地图-20260423.md](../prompts/information-graphic/022-成都手绘美食地图-20260423.md)
-- **效果图**: [查看](../prompts/information-graphic/assets/022-成都手绘美食地图.jpg)
+- **文档**: [成都手绘美食地图-20260423.md](../prompts/information-graphic/成都手绘美食地图-20260423.md)
+- **效果图**: [查看](../prompts/information-graphic/assets/成都手绘美食地图.jpg)
 - **质量**: ⭐ 优质
 
 **提示词**:
@@ -160,8 +160,8 @@
 - **来源**: https://oimi.ai/zh/blog/top-20-gpt-image-2-prompts
 - **标签**: gpt-image-2, UI, 历史, 社交媒体, 朝鲜
 - **收录时间**: 2026-04-23
-- **文档**: [025-李成桂的X主页-20260423.md](../prompts/ui/025-李成桂的X主页-20260423.md)
-- **效果图**: [查看](../prompts/ui/assets/025-李成桂的X主页.jpg)
+- **文档**: [李成桂的X主页-20260423.md](../prompts/ui/李成桂的X主页-20260423.md)
+- **效果图**: [查看](../prompts/ui/assets/李成桂的X主页.jpg)
 - **质量**: ⭐ 优质
 
 **提示词**:
