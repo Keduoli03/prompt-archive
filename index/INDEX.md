@@ -1,6 +1,6 @@
 # Prompt Archive 索引
 
-> 最后更新：2026-04-23
+> 最后更新：2026-04-24
 
 ---
 
@@ -93,6 +93,21 @@
 > 根据【主题】自动生成一张收藏版史诗叙事海报：巨大优雅的人物侧脸剪影作为外轮廓，剪影内部自动生长出最契合该主题的完整世界观...
 
 ---
+
+### 1960s French New Wave Theatrical Poster
+
+- **分类**: movie-poster
+- **作者**: @dotey
+- **来源**: X (Twitter) - [原文链接](https://x.com/dotey/status/2046783507511287906)
+- **标签**: gpt-image-2, French New Wave, 法国新浪潮, 电影海报, 拼贴, 波普艺术
+- **收录时间**: 2026-04-24
+- **文档**: [9.1960s French New Wave Theatrical Poster-20260424.md](../prompts/movie-poster/9.1960s%20French%20New%20Wave%20Theatrical%20Poster-20260424.md)
+- **效果图**: [查看](../prompts/movie-poster/assets/9.1960s%20French%20New%20Wave%20Theatrical%20Poster-效果图.jpg)
+- **质量**: ⭐ 优质
+
+**提示词**:
+
+> 1960s French New Wave theatrical poster, bold photomontage composition, torn-paper collage sensibility, pop-art color bursts...
 
 ---
 
