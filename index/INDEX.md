@@ -101,8 +101,8 @@
 - **来源**: X (Twitter) - [原文链接](https://x.com/dotey/status/2046783507511287906)
 - **标签**: gpt-image-2, French New Wave, 法国新浪潮, 电影海报, 拼贴, 波普艺术
 - **收录时间**: 2026-04-24
-- **文档**: [9.1960s French New Wave Theatrical Poster-20260424.md](../prompts/movie-poster/9.1960s%20French%20New%20Wave%20Theatrical%20Poster-20260424.md)
-- **效果图**: [查看](../prompts/movie-poster/assets/9.1960s%20French%20New%20Wave%20Theatrical%20Poster-效果图.jpg)
+- **文档**: [法国新浪潮电影海报-20260424.md](../prompts/movie-poster/法国新浪潮电影海报-20260424.md)
+- **效果图**: [查看](../prompts/movie-poster/assets/法国新浪潮电影海报-效果图.jpg)
 - **质量**: ⭐ 优质
 
 **提示词**:
