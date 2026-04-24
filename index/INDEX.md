@@ -41,7 +41,7 @@
    ![效果图](../prompts/movie-poster/assets/20260423-剪影轮廓填充式电影海报-效果图.png)
 
 3. [法国新浪潮电影海报](../prompts/movie-poster/法国新浪潮电影海报-20260424.md)
-   ![效果图](https://gptimges.com/prompts/twitter-dotey/dotey-movie-poster.jpg)
+   ![效果图](../prompts/movie-poster/assets/法国新浪潮电影海报-效果图.jpg)
 
 ---
 
@@ -68,7 +68,7 @@
    ![效果图](../prompts/ui/assets/李成桂的X主页.jpg)
 
 2. [多场景UI截图](../prompts/ui/多场景UI截图-20260423.md)
-   ![效果图](https://gcore.jsdelivr.net/gh/Keduoli03/awesome-gpt-image-2-prompts@main/./images/ui_case39/output.jpg)
+   ![效果图](../prompts/ui/assets/多场景UI截图-效果图.jpg)
 
 ---
 
