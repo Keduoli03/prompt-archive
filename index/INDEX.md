@@ -1,6 +1,6 @@
 # Prompt Archive 索引
 
-> 最后更新：2026-04-24
+> 最后更新：2026-04-25
 
 ---
 
@@ -14,7 +14,8 @@
 | poster | 1 |
 | information-graphic | 2 |
 | ui | 2 |
-| **总计** | **10** |
+| other | 1 |
+| **总计** | **11** |
 
 ---
 
@@ -69,6 +70,12 @@
 
 2. [多场景UI截图](../prompts/ui/多场景UI截图-20260423.md)
    ![效果图](../prompts/ui/assets/多场景UI截图-效果图.jpg)
+
+---
+
+## 🎭 其他 / Other
+
+1. [Stunning Beauty Cool Aloof Atmospheric Portrait](../prompts/other/Stunning%20Beauty%20Cool%20Aloof%20Atmospheric%20Portrait-20260424.md)
 
 ---
 
